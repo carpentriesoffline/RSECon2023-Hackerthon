@@ -4,3 +4,5 @@
 - How many jobs can run simultaneously
 - Run some standard benchmark tests for HPC (whatever they are)
 - Publish/Visualise results for publication on website
+
+[See the website for some more ideas](https://carpentriesoffline.org/current_unknowns_and_testing)
