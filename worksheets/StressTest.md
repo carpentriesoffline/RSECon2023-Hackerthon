@@ -1,5 +1,5 @@
 # Stress Testing
-- Create tests for stress testing
+- Create tests for stress testing (Carpentries Offline and HPC)
 - How many people can feasibly log in simultaneously
 - How many jobs can run simultaneously
 - Run some standard benchmark tests for HPC (whatever they are)
